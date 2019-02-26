@@ -1,0 +1,3 @@
+{
+  comment: "This issue looks similar to:\n\n{{#issues}}\n* [#{{ number }} - {{ title }}]({{ number }})\n{{/issues}}\n\nIf any of these issues solves your problem, then feel free to close this."
+}
