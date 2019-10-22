@@ -1,8 +1,8 @@
 {
   perform: true,
   alwaysRequireAssignee: true,
-	defaultAssignee: 'anthonydresser',
-	defaultLabel: 'Triage: Needed',
+  defaultAssignee: 'anthonydresser',
+  defaultLabel: 'Triage: Needed',
   labelsRequiringAssignee: [],
   autoAssignees: {
     Area - Acquisition: [],
