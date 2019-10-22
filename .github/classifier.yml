@@ -1,6 +1,6 @@
 {
   perform: true,
-  alwaysRequireAssignee: true,
+  alwaysRequireAssignee: false,
   defaultAssignee: 'anthonydresser',
   defaultLabel: 'Triage: Needed',
   labelsRequiringAssignee: [],
