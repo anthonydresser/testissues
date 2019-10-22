@@ -19,7 +19,7 @@
     Area - Fundamentals: [],
     Area - Language Service: [],
     Area - Localization: [],
-    Area - Notebooks: [],
+    Area - Notebooks: [ 'aaomidi' ],
     Area - Performance: [],
     Area - Query Editor: [ ],
     Area - Query Plan: [],
