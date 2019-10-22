@@ -1,6 +1,6 @@
 {
   perform: true,
   label: 'stale',
-  daysSinceLastUpdate: 1,
+  daysSinceLastUpdate: 0,
   ignoredLabels: []
 }
